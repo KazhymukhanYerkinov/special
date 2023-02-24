@@ -1,0 +1,47 @@
+{
+    "candidate": {
+        "candidate": "candidate:4062063367 1 udp 2122260223 172.19.0.1 55762 typ host generation 0 ufrag RRZK network-id 1",
+        "sdpMid": "0",
+        "sdpMLineIndex": 0
+    }
+}
+
+{
+    "candidate": {
+        "candidate": "candidate:678820566 1 udp 2122194687 192.168.0.19 54664 typ host generation 0 ufrag RRZK network-id 2 network-cost 10",
+        "sdpMid": "0",
+        "sdpMLineIndex": 0
+    }
+}
+
+{
+    "candidate": {
+        "candidate": "candidate:3164461047 1 tcp 1518280447 172.19.0.1 9 typ host tcptype active generation 0 ufrag RRZK network-id 1",
+        "sdpMid": "0",
+        "sdpMLineIndex": 0
+    }
+}
+
+{
+    "candidate": {
+        "candidate": "candidate:1727399462 1 tcp 1518214911 192.168.0.19 9 typ host tcptype active generation 0 ufrag RRZK network-id 2 network-cost 10",
+        "sdpMid": "0",
+        "sdpMLineIndex": 0
+    }
+}
+
+{
+    "candidate": {
+        "candidate": "candidate:289385963 1 udp 1686052607 37.99.37.156 5082 typ srflx raddr 172.19.0.1 rport 55762 generation 0 ufrag RRZK network-id 1",
+        "sdpMid": "0",
+        "sdpMLineIndex": 0
+    }
+}
+
+{
+    "candidate": {
+        "candidate": "candidate:3731194626 1 udp 1685987071 37.99.37.156 20218 typ srflx raddr 192.168.0.19 rport 54664 generation 0 ufrag RRZK network-id 2 network-cost 10",
+        "sdpMid": "0",
+        "sdpMLineIndex": 0
+    }
+}
